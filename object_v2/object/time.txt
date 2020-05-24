@@ -1,0 +1,67 @@
+nopre_10kep_val2_16epcoh 3720sec (14.65 loss)
+nopre_25kep_val4_16epoch 8093sec (11.84 loss)
+nopre_5kep_val2_16epoch 2735sec (26.15 loss)
+
+
+
+nopre_25kep_val4_5epoch
+nopre_25kep_val4_8epoch
+nopre_25kep_val4_11epoch
+nopre_25kep_val4_13epoch
+nopre_25kep_val4_16epoch
+
+
+
+pre_5kep_val2_8epoch  1327sec (32.91 loss)
+pre_10kep_val2_8epoch 1829 sec (25.50 loss))
+pre_15kep_val4_8epoch 5511 sec(17.37loss)
+pre_20kep_val4_8epoch 3042 sec (16.22loss)
+
+
+
+pre_20kep_val4_2epoch
+pre_20kep_val4_4epoch
+pre_20kep_val4_6epoch
+pre_20kep_val4_8epoch
+
+
+
+pre_60kep_val7_12epoch kb 6ora (6.2 loss kb)
+
+
+16GB RAM
+Intel i7-4600PM CPU @ 2.90 GHzx4
+Intel Haswell Mobile GPU
+64-bit OS
+
+
+
+
+alap 50%
+
+
+
+detect idő
+416:  3,28  3,39   2,86  2,63   2,57  2,97
+
+832pixel:::   5,59   6,51 
+
+256pikel:   2,15   2,09
+
+
+128pixel:   1,86  1,66
+
+
+64 pixel:  1,73  1,73
+
+32pixel:  1,64  1,66
+
+384pixel: 2,6 2,46
+
+192pixel: 1,83 1,86
+
+96 pixel:1,77 1,78
+
+1664pixel:20,22  18,56
+
+XXXXXXXXXXXXXXXXXXx
